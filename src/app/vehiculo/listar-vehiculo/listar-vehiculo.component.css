@@ -4,3 +4,10 @@
     position: static;
     margin: 1%;
   }
+
+  .resumen {
+    text-align: left;
+    margin-left: 2%;
+    display: inline-block;
+    width: 100%;
+  }
